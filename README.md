@@ -30,21 +30,21 @@ Since i am a Debian GNU/Linux user, new commands for me were just "more" and "fi
 ## Linux CLI, and HTTP
 <details>
   <summary>Quiz 1</summary>
-  <img src = "./task_linux_cli/quiz1.png" width = 95%>
+  <img src = "./task_linux_cli/quiz1.png">
 </details>
 <details>
   <summary>Quiz 2</summary>
-  <img src = "./task_linux_cli/quiz2.png" width = 95%>
+  <img src = "./task_linux_cli/quiz2.png">
 </details>
 <details>
   <summary>Quiz 3</summary>
-  <img src = "./task_linux_cli/quiz3.png" width = 95%>
+  <img src = "./task_linux_cli/quiz3.png">
 </details>
 <details>
   <summary>Quiz 4</summary>
-  <img src = "./task_linux_cli/quiz4.png" width = 95%>
+  <img src = "./task_linux_cli/quiz4.png">
 </details>
 
 #### HTTP
 
-Articles are very interesting. A lot of information looking for the practical use of all this.
+Articles are very interesting. A lot of information, looking for the practical use of all this.
