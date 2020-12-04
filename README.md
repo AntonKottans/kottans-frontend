@@ -9,15 +9,15 @@
 4. [ ] [Responsive Web Design](#responsive-web-design)
 5. [ ] [HTML & CSS Practice](#html-and-css-practice)
 6. [ ] [JavaScript Basics](#javaScript-basics)
-7. [ ] Document Object Model - practice
+7. [ ] Document Object Model - practice(#document-object-model)
 ### Advanced Topics
-8. [ ] Building a Tiny JS World (pre-OOP) - practice
-9. [ ] Object oriented JS - practice
-10. [ ] OOP exercise - practice
-11. [ ] Offline Web Applications
-12. [ ] Memory pair game — real project!
-13. [ ] Website Performance Optimization
-14. [ ] Friends App - real project!
+8. [ ] Building a Tiny JS World (pre-OOP) - practice(#building-a-tiny-js-world-pre-oop)
+9. [ ] Object oriented JS - practice(#object-oriented-js-practice)
+10. [ ] OOP exercise - practice(#oop-exercises)
+11. [ ] Offline Web Applications(#offline-web-applications)
+12. [ ] Memory pair game — real project!(#memory-pair-game)
+13. [ ] Website Performance Optimization(#website-perfomance)
+14. [ ] Friends App - real project!(#friends-app)
 ***
 ## Git Basics
 I have already been introduced to git thanks to githowto.com, but learngitbranching.js.org helped a lot to understand it better.
