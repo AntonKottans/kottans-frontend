@@ -62,5 +62,9 @@ Articles are very interesting. A lot of information, looking for the practical u
 <img src="./task_git_collaboration/git_main2.png">
 <img src="./task_git_collaboration/git_remote.png">
 </details>
+
+---
+
 That was a lot of new information. My favorite `git fakeTeamwork`. And that was fun!
+
 ---
