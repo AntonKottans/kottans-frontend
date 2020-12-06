@@ -3,7 +3,7 @@
 ### General
 0. [x] [Git Basics](#git-basics)
 1. [x] [Linux CLI and Networking](#linux-cli-and-http)
-2. [ ] [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 ### Front-End Basics
 3. [ ] [Intro to HTML & CSS](#intro-to-html-and-css)
 4. [ ] [Responsive Web Design](#responsive-web-design)
@@ -48,3 +48,19 @@ Since i am a Debian GNU/Linux user, new commands for me were just "more" and "fi
 #### HTTP
 
 Articles are very interesting. A lot of information, looking for the practical use of all this.
+
+---
+
+## Git Collaboration
+<details>
+<summary>Udacity GitHub & Collaboration lesson screenshoot</summary>
+<img src="./task_git_collaboration/udacity_git_course.png">
+</details>
+<details>
+<summary>learngitbranching.js.org lesson screenshoots</summary>
+<img src="./task_git_collaboration/git_main1.png">
+<img src="./task_git_collaboration/git_main2.png">
+<img src="./task_git_collaboration/git_remote.png">
+</details>
+That was a lot of new information. My favorite `git fakeTeamwork`. And that was fun!
+---
