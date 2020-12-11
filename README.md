@@ -68,3 +68,21 @@ Articles are very interesting. A lot of information, looking for the practical u
 That was a lot of new information. My favorite `git fakeTeamwork`. And that was fun!
 
 ---
+## Intro to HTML and CSS
+
+<details>
+<summary>learngitbranching.js.org lesson screenshoots</summary>
+<img src="./task_html_css_intro/html_css_intro.png">
+</details>
+<details>
+<summary>codecademy HTML lessons screenshoots</summary>
+<img src="./task_html_css_intro/html_codecademy.png">
+</details>
+<details>
+<summary>codecademy CSS lessons screenshoots</summary>
+<img src="./task_html_css_intro/CSS_codecademy.png">
+</details>
+Though there was nothing complicated, last exercise in lesson about fonts was like "What do you want from me???". After reset i wrote the same and it worked. Codecademy's editor was good until lessons about flex and grid becouse of long loading and loosing connection while typing.
+
+---
+
