@@ -5,7 +5,7 @@
 1. [x] [Linux CLI and Networking](#linux-cli-and-http)
 2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 ### Front-End Basics
-3. [ ] [Intro to HTML & CSS](#intro-to-html-and-css)
+3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
 4. [ ] [Responsive Web Design](#responsive-web-design)
 5. [ ] [HTML & CSS Practice](#html-and-css-practice)
 6. [ ] [JavaScript Basics](#javaScript-basics)
