@@ -71,7 +71,7 @@ That was a lot of new information. My favorite `git fakeTeamwork`. And that was 
 ## Intro to HTML and CSS
 
 <details>
-<summary>learngitbranching.js.org lesson screenshoots</summary>
+<summary>udacity intro lessons screenshoots</summary>
 <img src="./task_html_css_intro/html_css_intro.png">
 </details>
 <details>
