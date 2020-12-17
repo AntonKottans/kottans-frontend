@@ -9,8 +9,7 @@
 2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
 
 ### Front-End Basics
-
-3. [ ] [Intro to HTML & CSS](#intro-to-html-and-css)
+3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
 4. [ ] [Responsive Web Design](#responsive-web-design)
 5. [ ] [HTML & CSS Practice](#html-and-css-practice)
 6. [ ] [JavaScript Basics](#javaScript-basics)
@@ -89,7 +88,7 @@ That was a lot of new information. My favorite `git fakeTeamwork`. And that was 
 ## Intro to HTML and CSS
 
 <details>
-<summary>learngitbranching.js.org lesson screenshoots</summary>
+<summary>udacity intro lessons screenshoots</summary>
 <img src="./task_html_css_intro/html_css_intro.png">
 </details>
 <details>
