@@ -116,14 +116,13 @@ Though there was nothing complicated, last exercise in lesson about fonts was li
 
 ---
 
-So that is debugging usb for!
-chrome://inspect + chrome canary = debugging on smartphone
+So that is debugging usb for! chrome://inspect + chrome canary = debugging on smartphone
 
-keywords: hardware pixel, device independent pixel(dip), device pixel ratio(dpr), viewport, off canvas
-Don't forget to set viewport!
+keywords: hardware pixel, device independent pixel(dip), device pixel ratio(dpr), viewport, off canvas. Don't forget to set viewport!
 
 Comfortable size of buttons for fat fingers - 48x48.
 Comfortable width of text for reading - 45-90 caracters.
+
 ---
 
 wrap-reverse wrap-reverse wrap-reverse
