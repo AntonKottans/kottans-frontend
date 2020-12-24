@@ -10,8 +10,8 @@
 
 ### Front-End Basics
 3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
-4. [ ] [Responsive Web Design](#responsive-web-design)
-5. [ ] [HTML & CSS Practice](#html-and-css-practice)
+4. [x] [Responsive Web Design](#responsive-web-design)
+5. [x] [HTML & CSS Practice](#html-and-css-practice)
 6. [ ] [JavaScript Basics](#javaScript-basics)
 7. [ ] [Document Object Model](#document-object-model) - practice
 
@@ -126,5 +126,16 @@ Comfortable width of text for reading - 45-90 caracters.
 ---
 
 wrap-reverse wrap-reverse wrap-reverse
+
+---
+
+## HTML and CSS Practice
+
+[DEMO](https://antonkottans.github.io/hooli-style-popup/)
+
+Why i can't focus hidden checkbox? Cos i had to use 
+    appearance: none; 
+instead of 
+    display: none;
 
 ---
