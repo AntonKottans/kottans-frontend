@@ -139,3 +139,19 @@ instead of
     display: none;
 
 ---
+
+## JS Basics
+
+<details>
+    <summary>Udacity lessons screenshoot</summary>
+        <img src="./task_js_basics/udacity_lessons.png">
+</details>
+<details>
+    <summary>Free Code Camp</summary>
+        <img src="./task_js_basics/freecodecamp_lessons.png">
+</details>
+
+Something new: Object.freeze(Obj) - prohibits changes of object.
+
+---
+
