@@ -12,8 +12,8 @@
 3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
 4. [x] [Responsive Web Design](#responsive-web-design)
 5. [x] [HTML & CSS Practice](#html-and-css-practice)
-6. [ ] [JavaScript Basics](#javaScript-basics)
-7. [ ] [Document Object Model](#document-object-model) - practice
+6. [x] [JavaScript Basics](#JS-basics)
+7. [x] [Document Object Model](#dom) - practice
 
 ### Advanced Topics
 
@@ -155,3 +155,19 @@ Something new: Object.freeze(Obj) - prohibits changes of object.
 
 ---
 
+## DOM
+<details>
+    <summary>Free code camp exercises</summary>
+        <img src="./task_js_dom/freecodecamp_14_18_exercises.png">
+</details>
+<details>
+    <summary>Udacity dom course</summary>
+        <img src="./task_js_dom/udacity_dom_course.png">
+</details>
+
+[Demo](https://antonkottans.github.io/js-dom/)
+
+[Code](https://github.com/AntonKottans/kottans-frontend/tree/main/task_js_dom)
+
+
+---
