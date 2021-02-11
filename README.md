@@ -17,7 +17,7 @@
 
 ### Advanced Topics
 
-8. [ ] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
+8. [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
 9. [ ] [Object oriented JS](#object-oriented-js-practice) - practice
 10. [ ] [OOP exercise](#oop-exercises) - practice
 11. [ ] [Offline Web Applications](#offline-web-applications)
@@ -171,3 +171,9 @@ Something new: Object.freeze(Obj) - prohibits changes of object.
 
 
 ---
+
+## Building a tiny js world pre oop
+
+[Demo](https://antonkottans.github.io/a-tiny-JS-world/)
+
+[Code](https://github.com/AntonKottans/a-tiny-JS-world/blob/populate-world/index.js)
