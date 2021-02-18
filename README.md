@@ -19,8 +19,8 @@
 
 8. [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
 9. [x] [Object oriented JS](#object-oriented-js) - practice
-10. [ ] [OOP exercise](#oop-exercises) - practice
-11. [ ] [Offline Web Applications](#offline-web-applications)
+10. [x] [OOP exercise](#oop-exercises) - practice
+11. [x] [Offline Web Applications](#offline-web-applications)
 12. [ ] [Memory pair game](#memory-pair-game) — real project!
 13. [ ] [Website Performance Optimization](#website-perfomance-optimization)
 14. [ ] [Friends App](#friends-app) - real project!
@@ -194,5 +194,15 @@ Something new: Object.freeze(Obj) - prohibits changes of object.
     <summary>Codewars screenshoot</summary>
         <img src="./task_js_oop/codewarsscreenshot.png">
 </details>
+
+---
+
+# Offline Web Applications
+
+К сожалению, моих знаний английского недостаточно для усвоения большого количества видеоматериала. Можно было бы просто прощелкать кнопку 'Next', но знаний от этого не прибавится :)
+
+Unfortunately, my knowledge of English is not enough to master a large amount of video material. I could just click the 'Next' button, but this will not add knowledge :)
+
+Thus, for now, it's useless for me.
 
 ---
