@@ -94,10 +94,12 @@ document.body.onload = () => {
 		]
 		let cashedArticles = []
 		let fishNames = ["carp", "grassCarp", "pike", "catfish", "carassius"]
-		fishNames.forEach((fishName) => cashedArticles.push([fishName, document.createElement("div")]))
+		fishNames.forEach((fishName) =>
+			cashedArticles.push([fishName, document.createElement("div")])
+		)
 		cashedArticles.forEach((contentItem, i) => {
 			contentItem[1].classList.add(contentItem[0], "content")
-            contentItem[1].insertAdjacentHTML('afterbegin', articles[i]);
+			contentItem[1].insertAdjacentHTML("afterbegin", articles[i])
 		})
 		return cashedArticles
 	}
@@ -126,9 +128,13 @@ document.body.onload = () => {
 	let navMenu = document.querySelector(".nav-menu")
 	navMenu.addEventListener("click", navClickHandle)
 
-    let initRadio = document.querySelector(".nav-radio");
-    console.log(initRadio)
-    if(initRadio){
-        initRadio.click()
-    }
+	let initRadio = document.querySelector(".nav-radio")
+	console.log(initRadio)
+	if (initRadio) {
+		initRadio.click()
+	}
 }
+
+caches.match(event.request).then((response) => {
+    return response || fetch(event.request);
+  })
