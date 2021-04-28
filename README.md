@@ -21,7 +21,7 @@
 9. [x] [Object oriented JS](#object-oriented-js) - practice
 10. [x] [OOP exercise](#oop-exercises) - practice
 11. [x] [Offline Web Applications](#offline-web-applications)
-12. [ ] [Memory pair game](#memory-pair-game) — real project!
+12. [x] [Memory pair game](#memory-pair-game) — real project!
 13. [ ] [Website Performance Optimization](#website-perfomance-optimization)
 14. [ ] [Friends App](#friends-app) - real project!
 
