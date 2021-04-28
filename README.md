@@ -65,7 +65,7 @@ Since i am a Debian GNU/Linux user, new commands for me were just "more" and "fi
 Articles are very interesting. A lot of information, looking for the practical use of all this.
 
 ---
-
+https://github.com/AntonKottans/friends-app
 ## Git Collaboration
 
 <details>
@@ -214,3 +214,9 @@ Thus, for now, it's useless for me.
 [Code](https://github.com/AntonKottans/memory-pair-game)
 
 ---
+
+## Friends App
+
+[Demo, not completed](https://antonkottans.github.io/friends-app/)
+
+[Code](https://github.com/AntonKottans/friends-app)
