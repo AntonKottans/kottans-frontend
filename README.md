@@ -197,12 +197,20 @@ Something new: Object.freeze(Obj) - prohibits changes of object.
 
 ---
 
-# Offline Web Applications
+## Offline Web Applications
 
 К сожалению, моих знаний английского недостаточно для усвоения большого количества видеоматериала. Можно было бы просто прощелкать кнопку 'Next', но знаний от этого не прибавится :)
 
 Unfortunately, my knowledge of English is not enough to master a large amount of video material. I could just click the 'Next' button, but this will not add knowledge :)
 
 Thus, for now, it's useless for me.
+
+---
+
+## Memory Pair Game
+
+[Demo](https://antonkottans.github.io/memory-pair-game/)
+
+[Code](https://github.com/AntonKottans/memory-pair-game)
 
 ---
