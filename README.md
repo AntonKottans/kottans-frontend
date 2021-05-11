@@ -23,7 +23,7 @@
 11. [x] [Offline Web Applications](#offline-web-applications)
 12. [x] [Memory pair game](#memory-pair-game) — real project!
 13. [ ] [Website Performance Optimization](#website-perfomance-optimization)
-14. [ ] [Friends App](#friends-app) - real project!
+14. [x] [Friends App](#friends-app) - real project!
 
 ---
 
@@ -217,6 +217,6 @@ Thus, for now, it's useless for me.
 
 ## Friends App
 
-[Demo, not completed](https://antonkottans.github.io/friends-app/)
+[Demo](https://antonkottans.github.io/friends-app/)
 
 [Code](https://github.com/AntonKottans/friends-app)
