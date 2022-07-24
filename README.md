@@ -31,8 +31,6 @@
 
 I have already been introduced to git thanks to githowto.com, but learngitbranching.js.org helped a lot to understand it better.
 
-Brand new for me was upstream.
-
 ## Linux CLI, and HTTP
 
 ---
