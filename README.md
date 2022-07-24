@@ -13,17 +13,17 @@
 4. [x] [Responsive Web Design](#responsive-web-design)
 5. [x] [HTML & CSS Practice](#html-and-css-practice)
 6. [x] [JavaScript Basics](#JS-basics)
-7. [] [Document Object Model](#dom) - practice
+7. [ ] [Document Object Model](#dom) - practice
 
 ### Advanced Topics
 
-8. [] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
-9. [] [Object oriented JS](#object-oriented-js) - practice
-10. [] [OOP exercise](#oop-exercises) - practice
-11. [] [Offline Web Applications](#offline-web-applications)
-12. [] [Memory pair game](#memory-pair-game) — real project!
-13. [] [Website Performance Optimization](#website-perfomance-optimization)
-14. [] [Friends App](#friends-app) - real project!
+8. [ ] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
+9. [ ] [Object oriented JS](#object-oriented-js) - practice
+10. [ ] [OOP exercise](#oop-exercises) - practice
+11. [ ] [Offline Web Applications](#offline-web-applications)
+12. [ ] [Memory pair game](#memory-pair-game) — real project!
+13. [ ] [Website Performance Optimization](#website-perfomance-optimization)
+14. [ ] [Friends App](#friends-app) - real project!
 
 ---
 
