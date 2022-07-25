@@ -63,7 +63,7 @@ Since i am a Debian GNU/Linux user, new commands for me were just "more" and "fi
 Articles are very interesting. A lot of information, looking for the practical use of all this.
 
 ---
-https://github.com/AntonKottans/friends-app
+
 ## Git Collaboration
 
 <details>
