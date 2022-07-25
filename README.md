@@ -6,7 +6,7 @@
 
 0. [x] [Git Basics](#git-basics)
 1. [x] [Linux CLI and Networking](#linux-cli-and-http)
-2. [x] [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+2. [x] [GitHub and Collaboration](#git-collaboration)
 
 ### Front-End Basics
 3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
