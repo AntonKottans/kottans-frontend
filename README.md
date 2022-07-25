@@ -111,6 +111,10 @@ Though there was nothing complicated, last exercise in lesson about fonts was li
     <summary>Froggy game screenshot</summary>
         <img src="./task_responsive_web_design/flex_froggy.png">
 </details>
+<details>
+    <summary>Grid garden game screenshot</summary>
+        <img src="./task_responsive_web_design/grid_garden.png">
+</details>
 
 ---
 
