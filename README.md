@@ -197,6 +197,12 @@ Something new: Object.freeze(Obj) - prohibits changes of object.
         <img src="./task_js_oop/codewarsscreenshot.png">
 </details>
 
+Classic Frogger Game
+
+[demo](https://antonkottans.github.io/frontend-nanodegree-arcade-game/)
+
+At first was totally unclear how to implement functions in frogger game. I'm not sure if i could done it without example.
+
 ---
 
 ## Offline Web Applications
