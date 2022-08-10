@@ -13,13 +13,13 @@
 4. [x] [Responsive Web Design](#responsive-web-design)
 5. [x] [HTML & CSS Practice](#html-and-css-practice)
 6. [x] [JavaScript Basics](#JS-basics)
-7. [ ] [Document Object Model](#dom) - practice
+7. [x] [Document Object Model](#dom) - practice
 
 ### Advanced Topics
 
 8. [ ] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
 9. [ ] [Object oriented JS](#object-oriented-js) - practice
-10. [ ] [OOP exercise](#oop-exercises) - practice
+10. [ ] [OOP exercise](#oop-exercise) - practice
 11. [ ] [Offline Web Applications](#offline-web-applications)
 12. [ ] [Memory pair game](#memory-pair-game) — real project!
 13. [ ] [Website Performance Optimization](#website-perfomance-optimization)
@@ -202,6 +202,16 @@ Classic Frogger Game
 [demo](https://antonkottans.github.io/frontend-nanodegree-arcade-game/)
 
 At first was totally unclear how to implement functions in frogger game. I'm not sure if i could done it without example.
+
+---
+
+## OOP exercise
+
+[Demo](https://antonkottans.github.io/a-tiny-JS-world/)
+
+[Code](https://github.com/AntonKottans/a-tiny-JS-world/blob/master/index.js)
+
+Inheritance is a bit unclear, but simple enough.
 
 ---
 
