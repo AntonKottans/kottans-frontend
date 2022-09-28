@@ -30,7 +30,7 @@
 
 Optional tasks
 
-15. [x] [Tic-tae-toe](#tic-tac-toe) - game!
+15. [x] [Tic-tac-toe](#tic-tac-toe) - game!
 
 ---
 
