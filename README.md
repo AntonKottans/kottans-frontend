@@ -25,7 +25,12 @@
 12. [x] [Memory pair game](#memory-pair-game) — real project!
 13. [ ] [Website Performance Optimization](#website-perfomance-optimization)
 14. [x] [Friends App](#friends-app) - real project!
-Optional task [Tic-tae-toe](#tic-tac-toe) - game!
+
+---
+
+Optional tasks
+
+15. [x] [Tic-tae-toe](#tic-tac-toe) - game!
 
 ---
 
@@ -213,7 +218,7 @@ At first was totally unclear how to implement functions in frogger game. I'm not
 
 [Code](https://github.com/AntonKottans/a-tiny-JS-world/blob/master/index.js)
 
-Inheritance is a bit unclear, but simple enough.
+Inheritance is a bit unclear, but simple enough. Still didn't get how to implement multiple inharinatce via classes.
 
 ---
 
