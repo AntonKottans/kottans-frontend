@@ -9,6 +9,7 @@
 2. [x] [GitHub and Collaboration](#git-collaboration)
 
 ### Front-End Basics
+
 3. [x] [Intro to HTML & CSS](#intro-to-html-and-css)
 4. [x] [Responsive Web Design](#responsive-web-design)
 5. [x] [HTML & CSS Practice](#html-and-css-practice)
@@ -17,13 +18,14 @@
 
 ### Advanced Topics
 
-8. [ ] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
-9. [ ] [Object oriented JS](#object-oriented-js) - practice
-10. [ ] [OOP exercise](#oop-exercise) - practice
+8. [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world-pre-oop) - practice
+9. [x] [Object oriented JS](#object-oriented-js) - practice
+10. [x] [OOP exercise](#oop-exercise) - practice
 11. [ ] [Offline Web Applications](#offline-web-applications)
-12. [ ] [Memory pair game](#memory-pair-game) — real project!
+12. [x] [Memory pair game](#memory-pair-game) — real project!
 13. [ ] [Website Performance Optimization](#website-perfomance-optimization)
-14. [ ] [Friends App](#friends-app) - real project!
+14. [x] [Friends App](#friends-app) - real project!
+Optional task [Tic-tae-toe](#tic-tac-toe) - game!
 
 ---
 
@@ -217,11 +219,8 @@ Inheritance is a bit unclear, but simple enough.
 
 ## Offline Web Applications
 
-К сожалению, моих знаний английского недостаточно для усвоения большого количества видеоматериала. Можно было бы просто прощелкать кнопку 'Next', но знаний от этого не прибавится :)
-
-Unfortunately, my knowledge of English is not enough to master a large amount of video material. I could just click the 'Next' button, but this will not add knowledge :)
-
-Thus, for now, it's useless for me.
+lie-fi)
+service-worker still needs time to master
 
 ---
 
@@ -231,6 +230,8 @@ Thus, for now, it's useless for me.
 
 [Code](https://github.com/AntonKottans/memory-pair-game)
 
+biggest problem was animation
+
 ---
 
 ## Friends App
@@ -238,3 +239,13 @@ Thus, for now, it's useless for me.
 [Demo](https://antonkottans.github.io/friends-app/)
 
 [Code](https://github.com/AntonKottans/friends-app)
+
+---
+
+## Tic tac toe
+
+[Demo](https://antonkottans.github.io/tic-tac-toe/)
+
+[Code](https://github.com/AntonKottans/tic-tac-toe)
+
+AI logic took most of time
